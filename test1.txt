@@ -1,3 +1,7 @@
 raj
 raja
+<<<<<<< HEAD
 raaaj
+=======
+rajaneesh
+>>>>>>> test
